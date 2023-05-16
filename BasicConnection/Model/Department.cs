@@ -1,4 +1,4 @@
-﻿namespace BasicConnection;
+﻿namespace BasicConnection.Model;
 
 public class Department
 {
